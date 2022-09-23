@@ -33,5 +33,3 @@ def reverse_string(str)
   end
   reversed_str
 end
-
-puts reverse_string("hello")
